@@ -8,7 +8,7 @@ An overview guide to **HitFilm Pro** — a hybrid video editing and VFX composit
 
 ---
 
-## 📌 What was HitFilm Pro?
+## 📌 What was HitFilm Pro? CLICK = https://share.google/tWP3lMHtV5LuKXD44
 
 HitFilm Pro was a **hybrid editing and visual effects application**, merging FXhome's earlier VisionLab Studio and EffectsLab Pro tools into one package. It combined a standard timeline-based non-linear editor with node-based compositing, keyframe animation, and 3D model integration — positioning it as a budget-friendly alternative to Adobe After Effects and Premiere Pro combined.
 
